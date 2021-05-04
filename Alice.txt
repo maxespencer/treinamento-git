@@ -1,6 +1,10 @@
 Oi! Eu sou Alice. Sou um arquivo que alguém adicionou neste repositório há um bom tempo.
+<<<<<<< HEAD
 sei la 
 itadakimasu!!!!!!
 causar o caos
 roberardo gente fina
 causar o caos again !!!
+=======
+pode ser que funcione
+>>>>>>> 2c67c6023714043fddb648522b31b2ed1ff2671a
